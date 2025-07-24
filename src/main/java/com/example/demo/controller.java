@@ -1,14 +1,13 @@
 package com.example.demo;
-import java.util.*;
 
-public class controller {
-    controller(){
+class student {
+    student(){
 
     }
 }
 
-class student{
-    public static void main(string[] args){
+public class controller{
+    public static void main(String[] args){
         System.out.println("Hello word");
     }
 }
